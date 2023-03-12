@@ -1,6 +1,3 @@
-<!-- Header -->
-<img align="center" src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=785&q=80" alt="profile pic" />
-
 <!-- Introduction -->
 
 ### Hi there, I'm Abdulramon 👋
@@ -12,7 +9,7 @@ I'm a front-end developer with experience in building responsive and user-friend
 #### Skills
 
 - 💻 HTML, CSS, JavaScript
-- 🛠️ React, Next Js, Tailwind CSS
+- 🛠️ React, Next Js, Tailwind CSS, Framer Motion, SCSS, Redux Toolkit, Zustand, Recoil, React Query, RTK Query, Firebase, Three Js, React Three Fibre, Chakra Ui, Tanstack Router ...
 - 🚀 Git, GitHub, VS Code, Figma
 
 <!-- Stats -->
