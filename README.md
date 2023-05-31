@@ -30,4 +30,4 @@ I'm a front-end developer with experience in building responsive and user-friend
 
 - 📧 Email: lasisiolalekan081@gmail.com
 - 💼 LinkedIn: [Abdulramon Lasisi](https://www.linkedin.com/in/abdulramon-lasisi-9b853b1b9/)
-- 🐦 Twitter: [@abdulrlass](https://twitter.com/AbdulRLass)
+- 🐦 Twitter: [@abdulrlass](https://twitter.com/Rinn68)
