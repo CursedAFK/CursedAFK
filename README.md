@@ -8,8 +8,8 @@ I'm a seasoned front-end developer with a proven track record of building respon
 
 #### Skills
 
-- 💻 HTML, CSS, JavaScript
-- 🛠️ React, Next Js, React Native, Node Js, Express Js, SQL, Postgresql, Mysql, Tailwind CSS, Framer Motion, SCSS, Redux Toolkit, Zustand, Recoil, React Query, RTK Query, Firebase, Three Js, React Three Fibre, Chakra Ui, Tanstack Router ...
+- 💻 HTML, CSS, JavaScript, PHP
+- 🛠️ React, Next Js, React Native, Node Js, Express Js, SQL, Postgresql, Mysql, Tailwind CSS, Framer Motion, SCSS, Redux Toolkit, Zustand, Recoil, React Query, RTK Query, Firebase, Three Js, React Three Fibre, Chakra Ui, Tanstack Router, Wordpress ...
 - 🚀 Git, GitHub, VS Code, Figma
 
 <!-- Stats -->
